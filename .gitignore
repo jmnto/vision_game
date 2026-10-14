@@ -1,0 +1,7 @@
+.venv/
+.runtime/
+__pycache__/
+*.pyc
+frontend/node_modules/
+models/*.pt
+!models/yolov8n.pt
